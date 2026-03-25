@@ -30,3 +30,6 @@ yoyo.addEventListener("click", () => { animation.yoyo(true) })
 // This sets the repeat of the entire animation and it is also a toggle field
 // you have to pass in the argument of how many times you want to repeat
 repeat.addEventListener("click", () => { animation.repeat(3) })
+
+
+// The yoyo reverses according to the number of times the animation is set to repeat
